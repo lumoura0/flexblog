@@ -1,6 +1,6 @@
 FlexBlog !!!
 
-<a href="https://https://i.imgur.com/b1E6QqF.png"><img src="https://i.imgur.com/b1E6QqF.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/npPG5uu"><img src="https://i.imgur.com/npPG5uu.png"/></a>
 
 
 ## 🚀 Tecnologias e Ferramentas Utilizadas
